@@ -624,8 +624,8 @@
     <string name="expanded_desktop_nothing_to_show_text">Turn the switch off to customize your expanded desktop on a per-app basis</string>
 
     <!-- Applications: Long screen -->
-    <string name="long_screen_settings_title">Full screen apps</string>
-    <string name="long_screen_settings_summary">Force legacy apps to use full screen aspect ratio</string>
+    <string name="inverse_long_screen_settings_title">Disable stretch-to-fullscreen</string>
+    <string name="inverse_long_screen_settings_summary">Prevent selected apps from utilizing stretch-to-fullscreen</string>
 
     <!-- Sounds: Charging sounds -->
     <string name="charging_sounds_settings_title">Charging sounds</string>

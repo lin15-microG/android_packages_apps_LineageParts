@@ -18,6 +18,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:lineage="http://schemas.android.com/apk/res/org.lineageos.lineageparts"
     android:key="long_screen_settings"
-    android:title="@string/long_screen_settings_title">
+    android:title="@string/inverse_long_screen_settings_title">
 
 </PreferenceScreen>
